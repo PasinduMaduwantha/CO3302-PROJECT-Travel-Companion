@@ -1,4 +1,4 @@
-# CO3302-PROJECT-Travel-Companion
+# Travel Companion
 
 **Introduction: Travel Companion Application**
 
